@@ -31,6 +31,11 @@ Frontend engineer and co-founder building across the full stack, from pixel-perf
 | Browser-based design token builder that turns brand inputs (color, type, spacing) into a live-previewed, production-ready design system. Exports as React/Tailwind, CSS, Figma JSON, or W3C tokens, with built-in dark mode theming and version history. | Demand-driven marketplace for AI training data. Companies post bounties describing exactly the data they need and contributors submit work to fulfil them, closing the gap between what AI teams actually need and the generic datasets available today. |
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
 
+| 🦀 **[Jed's Rust + wgpu Summer Project](https://github.com/JedWasAlreadyTaken/Jed-s-Rust-wgpu-Summer-Project)** |
+|---|
+| A live record of learning Rust and wgpu from scratch. Follow along as I go from zero to building real graphics programs, one commit at a time. |
+| ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) ![wgpu](https://img.shields.io/badge/wgpu-CE422B?style=flat-square&logo=webgpu&logoColor=white) |
+
 > 👉 See pinned repos below for live demos and code!
 
 ---
