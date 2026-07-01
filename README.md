@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Jed Sam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Frontend+engineer+building+high-performance%2C+data-heavy+interfaces;Co-founder+across+three+ventures%2C+from+product+to+production+code;Expanding+into+systems+programming+%E2%80%94+Rust%2C+wgpu%2C+and+the+stuff+underneath+the+browser)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Frontend+engineer+building+high-performance%2C+data-heavy+interfaces;Co-founder+across+three+ventures%2C+from+product+to+production+code;Expanding+into+systems+programming:+Rust%2C+wgpu%2C+and+the+stuff+underneath+the+browser)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-Frontend engineer and co-founder building across the full stack — from pixel-perfect UIs to AI-native developer tooling.
+Frontend engineer and co-founder building across the full stack, from pixel-perfect UIs to AI-native developer tooling.
 
-- 🔭 Currently building **NEAT** — semantic architecture graphs for AI coding agents
+- 🔭 Currently building **NEAT**, a tool for semantic architecture graphs for AI coding agents
 - 🦀 Learning Rust, wgpu, and low-level systems programming
 - 🏗 Co-founder across three ventures, from zero to production
 - 💼 Open to collaboration and opportunities
@@ -20,7 +20,7 @@ Frontend engineer and co-founder building across the full stack — from pixel-p
 
 | 🧠 **NEAT** | 🚗 **Newdryve** |
 |---|---|
-| **[NEAT](https://neat.is)**<br/>Open-source tool that builds a live, semantic architecture graph of your codebase, infrastructure, and runtime — so AI coding agents work with accurate system-level context instead of just reading files.<br/><br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | **[Newdryve](https://newdryve.com/)**<br/>App-based marketplace for booking driving lessons — learners find verified instructors in Norwich and book instantly, while instructors get real availability visibility and automatic cancellation protection. Pre-launch, summer 2026.<br/><br/>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
+| **[NEAT](https://neat.is)**<br/>Open-source tool that builds a live, semantic architecture graph of your codebase, infrastructure, and runtime so AI coding agents can work with accurate system-level context instead of just reading files.<br/><br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | **[Newdryve](https://newdryve.com/)**<br/>App-based marketplace for booking driving lessons. Learners find verified instructors in Norwich and book instantly, while instructors get real availability visibility and automatic cancellation protection. Pre-launch, summer 2026.<br/><br/>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
 
 ---
 
@@ -28,7 +28,7 @@ Frontend engineer and co-founder building across the full stack — from pixel-p
 
 | 🎨 **[Meridian Design System](https://github.com/SUDO-LONDON/Design-System)** | 💰 **[BountyStack](https://github.com/BOUNTYSTACK-LTD)** |
 |---|---|
-| Browser-based design token builder that turns brand inputs (color, type, spacing) into a live-previewed, production-ready design system. Exports as React/Tailwind, CSS, Figma JSON, or W3C tokens — with built-in dark mode theming and version history. | Demand-driven marketplace for AI training data — companies post bounties describing exactly the data they need, and contributors submit work to fulfil them, closing the gap between what AI teams actually need and generic datasets available today. |
+| Browser-based design token builder that turns brand inputs (color, type, spacing) into a live-previewed, production-ready design system. Exports as React/Tailwind, CSS, Figma JSON, or W3C tokens, with built-in dark mode theming and version history. | Demand-driven marketplace for AI training data. Companies post bounties describing exactly the data they need and contributors submit work to fulfil them, closing the gap between what AI teams actually need and the generic datasets available today. |
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
 
 > 👉 See pinned repos below for live demos and code!
