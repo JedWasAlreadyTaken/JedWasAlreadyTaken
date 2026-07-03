@@ -36,6 +36,11 @@ Frontend engineer and co-founder building across the full stack, from pixel-perf
 | A live record of learning Rust and wgpu from scratch. Follow along as I go from zero to building real graphics programs, one commit at a time. |
 | ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) ![wgpu](https://img.shields.io/badge/wgpu-CE422B?style=flat-square&logo=webgpu&logoColor=white) |
 
+| 🧩 **[DSA Interview Prep](https://github.com/JedWasAlreadyTaken/DSA-Interview-Prep)** |
+|---|
+| Pattern-based data structures & algorithms practice in JS/TS, run in parallel with the Rust project, ahead of summer internship technical interviews. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) |
+
 > 👉 See pinned repos below for live demos and code!
 
 ---
